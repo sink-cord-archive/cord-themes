@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "name": "Sink's Themes",
+        "description": "A place for my Discord themes",
+        "author": "Yellowsink"
+    },
+    "themes": [
+        "fart-nit/fartnit.theme.sass.css"
+    ]
+}
