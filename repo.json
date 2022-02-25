@@ -6,6 +6,7 @@
     },
     "themes": [
         "fart-nit/fartnit.theme.sass.css",
+        "https://raw.githubusercontent.com/yellowsink/Diskai/dist/diskai.theme.css",
         "inanis/inanis.theme.sass.css"
     ]
 }
