@@ -5,6 +5,7 @@
         "author": "Yellowsink"
     },
     "themes": [
-        "fart-nit/fartnit.theme.sass.css"
+        "fart-nit/fartnit.theme.sass.css",
+        "inanis/inanis.theme.sass.css"
     ]
 }
